@@ -1,0 +1,64 @@
+[H[2J-----------------------1--------------------------------
+webonise-Desktop
+-----------------------2--------------------------------
+Distributor ID:	Ubuntu
+Description:	Ubuntu 14.04.1 LTS
+Release:	14.04
+Codename:	trusty
+-----------------------3--------------------------------
+/home/webonise
+-----------------------4--------------------------------
+           system boot  2016-04-05 16:27
+           run-level 2  2016-04-05 16:27
+LOGIN      tty4         2016-04-05 16:27               836 id=4
+LOGIN      tty5         2016-04-05 16:27               840 id=5
+LOGIN      tty2         2016-04-05 16:27               846 id=2
+LOGIN      tty3         2016-04-05 16:27               847 id=3
+LOGIN      tty6         2016-04-05 16:27               850 id=6
+LOGIN      tty1         2016-04-05 16:27               998 id=1
+webonise ? :0           2016-04-05 16:41   ?          1619 (:0)
+webonise + pts/11       2016-04-05 16:41  old         2171 (:0)
+-----------------------5--------------------------------
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+-----------------------6--------------------------------
+examples.desktop
+
+
+
+ass2.sh
+assignment.log
+ass.sh
+ass.sh~
+readme.txt
+
+1a.sh~
+
+1a.sh
+1a.sh~
+2a.sh
+assignment.log
+t1.txt
+t2.txt
+t3.txt
+
+
+abhinav_bahiya.zip
+codeschool_403.mp4
+codeschool_947.mp4
+google-chrome-stable_current_amd64.deb
+NISCHAY.zip
+skype-ubuntu-precise_4.3.0.37-1_i386.deb
+
+assignment.log
+extra.sh
+hell.sh
+q2-4.sh
+q7.sh
+readme.txt
+
+
+
+
+
+-------------------------------------------------------
+Tue Apr  5 20:00:19 IST 2016
